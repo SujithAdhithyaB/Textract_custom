@@ -11,7 +11,7 @@ scripts = glob.glob("bin/*")
 with open("README.rst") as stream:
     long_description = stream.read()
 
-github_url = 'https://github.com/deanmalmgren/textract'
+github_url = 'https://github.com/SujithAdhithyaB/Textract_custom/tree/main/textract-1.6.3'
 
 
 def parse_requirements(requirements_filename):
